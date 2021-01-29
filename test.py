@@ -22,3 +22,6 @@ compute1(3851,rnumber)
 #rnumber = 'ЙЮ81062469'
 #compute1(3704,rnumber)
 
+
+#rnumber = 'ЙЮ81062469'
+#compute1(3704,rnumber)
